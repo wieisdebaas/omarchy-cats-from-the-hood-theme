@@ -20,9 +20,9 @@ Single-file update: rewrite `colors.toml` in Omarchy v4 format, mapped 1:1 from 
 | `colors.toml` field | Value | Ayaka source |
 | --- | --- | --- |
 | `mode` | `dark` | dark theme |
-| `background` | `#000000` | background |
+| `background` | `#222222` | Ayaka bg softened (not pitch black) |
 | `dark_background` | `#262626` | color0 |
-| `darker_background` | `#000000` | background |
+| `darker_background` | `#1a1a1a` | slightly darker than bg |
 | `lighter_background` | `#404040` | color8 |
 | `foreground` | `#e6e6e6` | foreground |
 | `dark_foreground` | `#404040` | color8 |
