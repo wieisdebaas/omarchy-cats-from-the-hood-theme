@@ -2,6 +2,10 @@
 
 Omarchy theme by [wieisdebaas](https://github.com/wieisdebaas) — part of the **Cat themes** series.
 
+Dark Ayaka-inspired palette with orange chrome (`#e68e0d`) for accents, borders, and folders.
+
+Listed on [omarchytheme.com](https://omarchytheme.com/themes/cats-from-the-hood/).
+
 ![Desktop preview](preview.png)
 
 ## Install
@@ -17,6 +21,14 @@ omarchy theme set "Cats From The Hood"
 ```
 
 Cycle wallpapers with `omarchy theme bg next`.
+
+## Gallery files
+
+This repo ships the files [omarchytheme.com](https://omarchytheme.com) scrapes:
+
+- `colors.toml` — Omarchy v4 palette plus legacy `color0`–`color15` keys
+- `preview.png` — desktop screenshot
+- `README.md` — this file
 
 ## More cat themes
 
