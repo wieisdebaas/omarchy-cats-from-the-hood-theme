@@ -1,7 +1,7 @@
-# Ayaka palette (background softened to #222222). Omarchy v4.
+# Ayaka palette (bg #222222; chrome/blue shifted to orange #e68e0d). Omarchy v4.
 mode = "dark"
 
-accent = "#6699ff"
+accent = "#e68e0d"
 selection = "#2a2a2a"
 selection_foreground = "#ffffff"
 muted = "#404040"
@@ -18,10 +18,10 @@ bright_foreground = "#ffffff"
 
 red = "#e65c5c"
 yellow = "#ffcc66"
-orange = "#ffcc66"
+orange = "#e68e0d"
 green = "#66cc66"
 cyan = "#66cccc"
-blue = "#6699ff"
+blue = "#e68e0d"
 magenta = "#cc66cc"
 brown = "#262626"
 
@@ -29,5 +29,5 @@ bright_red = "#ff6666"
 bright_yellow = "#ffdd80"
 bright_green = "#80e680"
 bright_cyan = "#80e6e6"
-bright_blue = "#80b3ff"
+bright_blue = "#f0a83a"
 bright_magenta = "#e680e6"
